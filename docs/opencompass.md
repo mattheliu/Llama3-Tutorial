@@ -182,7 +182,7 @@ use_fast=False
 pad_token_id=151643,
 max_out_len=100,
 max_seq_len=2048,
-batch_size=48,
+batch_size=16,
 run_cfg=dict(num_gpus=1),
 )
 ]
